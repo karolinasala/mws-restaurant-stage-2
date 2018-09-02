@@ -1,0 +1,35 @@
+{
+  "name": "Restaurant Reviews Web App",
+  "short_name": "Restaurants Reviews",
+  "start_url": "/index.html?launcher=true",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Restaraunt Reviews Application",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#263238",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "img/icons",
+      "sizes": "32x32"
+    },
+    {
+      "src": "icon64.png",
+      "type": "img/icons",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon192.png",
+      "type": "img/icons",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512.png",
+      "type": "img/icons",
+      "sizes": "512x512"
+    }
+  ]
+}
